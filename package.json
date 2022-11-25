@@ -1,0 +1,15 @@
+{
+  "name": "vida-saludable-sass",
+  "version": "1.0.0",
+  "description": "Proyecto de pre entrega 3",
+  "main": "index.js",
+  "scripts": {
+    "node-sass": "node-sass -o css css/index.scss"
+  },
+  "keywords": [],
+  "author": "Rocio Pumayauli",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
